@@ -1,0 +1,5 @@
+description: "Git conventions"
+modules:
+  - haondt::git/commit-base
+  - haondt::git/commit-long
+  - haondt::git/branch-base

@@ -1,0 +1,5 @@
+description: "Find problems, challenge approaches, and surface hidden risks"
+modules:
+  - haondt::ai/analysis/find-problems
+  - haondt::ai/analysis/challenge-premise
+  - haondt::ai/analysis/surface-risks
