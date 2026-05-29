@@ -1,12 +1,12 @@
 description: "Core conventions for all projects"
 extends:
   - base
-  - haondt::base/ai
-  - haondt::base/git
-  - haondt::base/docs
+  - self::base/ai
+  - self::base/git
+  - self::base/docs
 modules:
-  - haondt::code/hygiene
+  - self::code/hygiene
 stances:
-  - haondt::autonomous
-  - haondt::collaborative
-  - haondt::critic
+  - self::autonomous
+  - self::collaborative
+  - self::critic

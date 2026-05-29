@@ -1,16 +1,16 @@
 description: "Python web service or API"
 extends:
-  - haondt::python/base
+  - self::python/base
 modules:
-  - haondt::python/async
-  - haondt::config/base
-  - haondt::python/config
-  - haondt::python/dependencies/uv
-  - haondt::python/frameworks/fastapi
-  - haondt::python/models/sqlmodel
-  - haondt::build/just
-  - haondt::frontend/hyperscript
-  - haondt::frontend/htmx
-  - haondt::frontend/bulma
-  - haondt::frontend/dcdn
-  - haondt::systems/frontend/no-build
+  - self::python/async
+  - self::config/base
+  - self::python/config
+  - self::python/dependencies/uv
+  - self::python/frameworks/fastapi
+  - self::python/models/sqlmodel
+  - self::build/just
+  - self::frontend/hyperscript
+  - self::frontend/htmx
+  - self::frontend/bulma
+  - self::frontend/dcdn
+  - self::systems/frontend/no-build

@@ -1,7 +1,7 @@
 description: "AI assistant behavioral conventions and stances"
 modules:
-  - haondt::ai/communication/prefer-brevity
-  - haondt::ai/coding/verify-before-use
-  - haondt::ai/coding/prefer-reuse
-  - haondt::ai/style/stay-in-scope
-  - haondt::ai/style/confirm-before-acting
+  - self::ai/communication/prefer-brevity
+  - self::ai/coding/verify-before-use
+  - self::ai/coding/prefer-reuse
+  - self::ai/style/stay-in-scope
+  - self::ai/style/confirm-before-acting

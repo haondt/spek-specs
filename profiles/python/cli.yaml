@@ -1,8 +1,8 @@
 description: "Python CLI tool"
 extends:
-  - haondt::python/base
+  - self::python/base
 modules:
-  - haondt::python/dependencies/uv
-  - haondt::python/testing/pytest
-  - haondt::python/models/pydantic
-  - haondt::build/just
+  - self::python/dependencies/uv
+  - self::python/testing/pytest
+  - self::python/models/pydantic
+  - self::build/just
