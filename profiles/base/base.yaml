@@ -1,6 +1,6 @@
 description: "Core conventions for all projects"
 extends:
-  - base
+  - base/base
   - self::base/ai
   - self::base/git
   - self::base/docs
