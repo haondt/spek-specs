@@ -2,11 +2,11 @@
 
 Install as a github repo
 ```sh
-kanon source add haondt gh::haondt/kanon-specs
+kanon source add haondt gh::haondt/kanons
 ```
 
 Or clone and install locally
 ```sh
-git clone https://github.com/haondt/kanon-specs.git
-kanon source add haondt kanon-specs
+git clone https://github.com/haondt/kanons.git
+kanon source add haondt local::/path/to/kanons
 ```
