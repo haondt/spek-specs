@@ -1,5 +1,5 @@
 ---
-spek:
+kanon:
   description: "htmx infinite scroll with intersect trigger and page-based pagination"
   keywords:
     - htmx

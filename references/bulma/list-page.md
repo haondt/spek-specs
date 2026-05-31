@@ -1,5 +1,5 @@
 ---
-spek:
+kanon:
   description: "Bulma list page with live search toolbar and action buttons"
   keywords:
     - bulma

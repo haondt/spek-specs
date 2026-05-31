@@ -1,5 +1,5 @@
 ---
-spek:
+kanon:
   description: "Config class pattern: centralized env-var parsing with a module-level singleton"
   keywords:
     - python

@@ -1,5 +1,5 @@
 ---
-spek:
+kanon:
   description: "htmx auto-save input with inline success/failure indicator"
   keywords:
     - htmx

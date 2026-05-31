@@ -2,11 +2,11 @@
 
 Install as a github repo
 ```sh
-spek source add haondt gh::haondt/spek-specs
+kanon source add haondt gh::haondt/kanon-specs
 ```
 
 Or clone and install locally
 ```sh
-git clone https://github.com/haondt/spek-specs.git
-spek source add haondt spek-specs
+git clone https://github.com/haondt/kanon-specs.git
+kanon source add haondt kanon-specs
 ```

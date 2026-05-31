@@ -1,5 +1,5 @@
 ---
-spek:
+kanon:
   description: "Bulma navbar with htmx boost and hyperscript burger toggle"
   keywords:
     - bulma
